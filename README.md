@@ -3,4 +3,4 @@ New text
 
 some text
 fix2 changes
-some frome fix2
+some from fix2
